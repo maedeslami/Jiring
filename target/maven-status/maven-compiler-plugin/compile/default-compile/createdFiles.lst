@@ -1,0 +1,10 @@
+jiring\service\UploadServiceImpl.class
+jiring\service\PersonServiceImpl.class
+jiring\service\UploadService.class
+jiring\entity\Person.class
+jiring\controller\PersonController.class
+jiring\controller\UploadFileController.class
+jiring\PersonExcelExporter.class
+jiring\repository\JiringDao.class
+jiring\service\PersonService.class
+jiring\MainApp.class
